@@ -1,0 +1,27 @@
+.card__button {
+    z-index: 100;
+}
+
+.card__button:first-child {
+    width: 3rem;
+	height: 3rem;
+	border-radius: 99px;
+	background-color: var(--blue);
+	cursor: pointer;
+    padding: 0;
+    position: absolute;
+    top: 9.5rem;
+    left: 2rem;
+}
+
+.card__button:last-child {
+    width: 3rem;
+	height: 3rem;
+	border-radius: 99px;
+	background-color: var(--blue);
+	cursor: pointer;
+    padding: 0;
+    position: absolute;
+    top: 9.5rem;
+    right: 2rem;
+}

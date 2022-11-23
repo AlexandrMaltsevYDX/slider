@@ -1,0 +1,9 @@
+.card__slider{
+    width: 35rem;
+    height: 22rem;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    /* overflow: hidden; */
+    /* padding: 0 2rem; */
+}

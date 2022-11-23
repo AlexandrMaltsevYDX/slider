@@ -1,0 +1,9 @@
+.button {
+    display: flex;
+    align-items: center;
+    background-color: blue;
+    min-height: 2.5rem;
+    padding:1.2rem 2.2rem;
+    border-radius: 1.75rem;
+    /* color: white; */
+}
